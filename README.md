@@ -8,4 +8,5 @@ How to crack MSI file with source code:
   msiexec /a petshop.msi /qb TARGETDIR=E:\temp\test
 
 How to bootstrap project db and find more instruction
+
 1. Readme.html
